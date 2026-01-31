@@ -1,0 +1,15 @@
+{
+  "$schema": "https://design-tokens.org/2025.10/schema",
+  "tokens": {
+    "small": {
+      "value": "{primitive.radius.small}",
+      "type": "dimension",
+      "description": "Small corner radius."
+    },
+    "large": {
+      "value": "{primitive.radius.large}",
+      "type": "dimension",
+      "description": "Large corner radius."
+    }
+  }
+}

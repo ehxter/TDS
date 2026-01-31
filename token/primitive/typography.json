@@ -1,0 +1,29 @@
+{
+  "$schema": "https://design-tokens.org/2025.10/schema",
+  "tokens": {
+    "fontSize": {
+      "body": {
+        "value": "16px",
+        "type": "dimension",
+        "description": "Body font size."
+      },
+      "heading": {
+        "value": "24px",
+        "type": "dimension",
+        "description": "Heading font size."
+      }
+    },
+    "fontWeight": {
+      "regular": {
+        "value": "400",
+        "type": "number",
+        "description": "Regular font weight."
+      },
+      "bold": {
+        "value": "700",
+        "type": "number",
+        "description": "Bold font weight."
+      }
+    }
+  }
+}

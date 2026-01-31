@@ -1,0 +1,15 @@
+{
+  "$schema": "https://design-tokens.org/2025.10/schema",
+  "tokens": {
+    "light": {
+      "value": "{primitive.color.primary}",
+      "type": "color",
+      "description": "Light overlay color."
+    },
+    "dark": {
+      "value": "{primitive.color.secondary}",
+      "type": "color",
+      "description": "Dark overlay color."
+    }
+  }
+}

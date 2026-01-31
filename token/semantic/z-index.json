@@ -1,0 +1,15 @@
+{
+  "$schema": "https://design-tokens.org/2025.10/schema",
+  "tokens": {
+    "background": {
+      "value": "{primitive.z-index.background}",
+      "type": "number",
+      "description": "Background layer z-index."
+    },
+    "modal": {
+      "value": "{primitive.z-index.modal}",
+      "type": "number",
+      "description": "Modal layer z-index."
+    }
+  }
+}

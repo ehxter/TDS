@@ -1,0 +1,20 @@
+{
+  "$schema": "https://design-tokens.org/2025.10/schema",
+  "tokens": {
+    "background": {
+      "value": "-1",
+      "type": "number",
+      "description": "Background z-index."
+    },
+    "default": {
+      "value": "1",
+      "type": "number",
+      "description": "Default z-index."
+    },
+    "modal": {
+      "value": "1000",
+      "type": "number",
+      "description": "Modal z-index."
+    }
+  }
+}

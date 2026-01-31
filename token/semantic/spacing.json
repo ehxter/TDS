@@ -1,0 +1,15 @@
+{
+  "$schema": "https://design-tokens.org/2025.10/schema",
+  "tokens": {
+    "padding": {
+      "value": "{primitive.spacing.medium}",
+      "type": "dimension",
+      "description": "Default padding."
+    },
+    "margin": {
+      "value": "{primitive.spacing.large}",
+      "type": "dimension",
+      "description": "Default margin."
+    }
+  }
+}

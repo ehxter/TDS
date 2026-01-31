@@ -1,0 +1,15 @@
+{
+  "$schema": "https://design-tokens.org/2025.10/schema",
+  "tokens": {
+    "default": {
+      "value": "{primitive.color.primary}",
+      "type": "color",
+      "description": "Default border color."
+    },
+    "highlight": {
+      "value": "{primitive.color.secondary}",
+      "type": "color",
+      "description": "Highlight border color."
+    }
+  }
+}

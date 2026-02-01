@@ -1,5 +1,4 @@
 {
-  "$schema": "https://design-tokens.org/2025.10/schema",
   "tokens": {
     "fontSize": {
       "value": "{primitive.typography.fontSize.body}",

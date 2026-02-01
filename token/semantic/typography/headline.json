@@ -1,15 +1,18 @@
 {
-  "$schema": "https://design-tokens.org/2025.10/schema",
-  "tokens": {
-    "fontSize": {
-      "value": "{primitive.typography.fontSize.heading}",
-      "type": "dimension",
-      "description": "Font size for headlines."
-    },
-    "fontWeight": {
-      "value": "{primitive.typography.fontWeight.bold}",
-      "type": "number",
-      "description": "Font weight for headlines."
+  "semantic": {
+    "typography": {
+      "headline": {
+        "fontSize": {
+          "value": "{primitive.typography.fontSize.heading}",
+          "type": "dimension",
+          "description": "Font size for headlines."
+        },
+        "fontWeight": {
+          "value": "{primitive.typography.fontWeight.bold}",
+          "type": "number",
+          "description": "Font weight for headlines."
+        }
+      }
     }
-  }
+  },
 }

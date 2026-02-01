@@ -1,29 +1,75 @@
 {
-  "$schema": "https://design-tokens.org/2025.10/schema",
-  "tokens": {
-    "fontSize": {
-      "body": {
-        "value": "16px",
-        "type": "dimension",
-        "description": "Body font size."
+  "primitive": {
+    "typography": {
+      "fontSize": {
+        "body": {
+          "value": "16px",
+          "type": "dimension",
+          "description": "Body font size."
+        },
+        "heading": {
+          "value": "24px",
+          "type": "dimension",
+          "description": "Heading font size."
+        },
+        "subHeading": {
+          "value": "20px",
+          "type": "dimension",
+          "description": "Sub-heading font size."
+        },
+        "tiny": {
+          "value": "12px",
+          "type": "dimension",
+          "description": "Tiny font size."
+        },
+        "small": {
+          "value": "14px",
+          "type": "dimension",
+          "description": "Small font size."
+        },
+        "medium": {
+          "value": "18px",
+          "type": "dimension",
+          "description": "Medium font size."
+        },
+        "large": {
+          "value": "22px",
+          "type": "dimension",
+          "description": "Large font size."
+        },
+        "xLarge": {
+          "value": "28px",
+          "type": "dimension",
+          "description": "Extra large font size."
+        },
+        "xxLarge": {
+          "value": "32px",
+          "type": "dimension",
+          "description": "Double extra large font size."
+        }
       },
-      "heading": {
-        "value": "24px",
-        "type": "dimension",
-        "description": "Heading font size."
-      }
-    },
-    "fontWeight": {
-      "regular": {
-        "value": "400",
-        "type": "number",
-        "description": "Regular font weight."
-      },
-      "bold": {
-        "value": "700",
-        "type": "number",
-        "description": "Bold font weight."
+      "fontWeight": {
+        "regular": {
+          "value": "400",
+          "type": "number",
+          "description": "Regular font weight."
+        },
+        "medium": {
+          "value": "500",
+          "type": "number",
+          "description": "Medium font weight."
+        },
+        "bold": {
+          "value": "700",
+          "type": "number",
+          "description": "Bold font weight."
+        },
+        "bolder": {
+          "value": "900",
+          "type": "number",
+          "description": "Bolder font weight."
+        }
       }
     }
-  }
+  },
 }

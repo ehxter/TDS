@@ -1,0 +1,68 @@
+{
+  "source": [
+    "token/**/*.json"
+  ],
+  "platforms": {
+    "web": {
+      "transformGroup": "web",
+      "buildPath": "build/web/",
+      "files": [
+        {
+          "destination": "tokens.css",
+          "format": "css/variables"
+        }
+      ]
+    },
+    "json": {
+      "transformGroup": "js",
+      "buildPath": "build/json/",
+      "files": [
+        {
+          "destination": "tokens.json",
+          "format": "json/flat"
+        }
+      ]
+    },
+    "android": {
+      "transformGroup": "android",
+      "buildPath": "build/android/",
+      "files": [
+        {
+          "destination": "font_dimens.xml",
+          "format": "android/fontDimens"
+        },
+        {
+          "destination": "colors.xml",
+          "format": "android/colors"
+        }
+      ]
+    },
+    "ios": {
+      "transformGroup": "ios-swift",
+      "buildPath": "build/ios/",
+      "files": [
+        {
+          "destination": "StyleDictionaryColor.swift",
+          "format": "ios-swift/class.swift",
+          "options": {
+            "className": "StyleDictionaryColor"
+          },
+          "filter": {
+            "type": "color"
+          }
+        },
+        {
+          "destination": "StyleDictionarySize.swift",
+          "format": "ios-swift/class.swift",
+          "options": {
+            "className": "StyleDictionarySize"
+          },
+          "type": "float",
+          "filter": {
+            "type": "dimension"
+          }
+        }
+      ]
+    }
+  }
+}

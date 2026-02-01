@@ -1,20 +1,21 @@
 {
-  "$schema": "https://design-tokens.org/2025.10/schema",
-  "tokens": {
+  "primitive": {
     "border": {
-      "value": "1px solid black",
-      "type": "border",
-      "description": "Default border style."
-    },
-    "border-thin": {
-      "value": "1px",
-      "type": "dimension",
-      "description": "Thin border width."
-    },
-    "border-thick": {
-      "value": "2px",
-      "type": "dimension",
-      "description": "Thick border width."
+      "border": {
+        "value": "1px solid black",
+        "type": "border",
+        "description": "Default border style."
+      },
+      "thin": {
+        "value": "1px",
+        "type": "dimension",
+        "description": "Thin border width."
+      },
+      "thick": {
+        "value": "2px",
+        "type": "dimension",
+        "description": "Thick border width."
+      }
     }
-  }
+  },
 }

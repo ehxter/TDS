@@ -1,15 +1,18 @@
 {
-  "$schema": "https://design-tokens.org/2025.10/schema",
-  "tokens": {
-    "fontSize": {
-      "value": "{primitive.typography.fontSize.body}",
-      "type": "dimension",
-      "description": "Font size for overlines."
-    },
-    "fontWeight": {
-      "value": "{primitive.typography.fontWeight.regular}",
-      "type": "number",
-      "description": "Font weight for overlines."
+  "semantic": {
+    "typography": {
+      "overline": {
+        "fontSize": {
+          "value": "{primitive.typography.fontSize.body}",
+          "type": "dimension",
+          "description": "Font size for overlines."
+        },
+        "fontWeight": {
+          "value": "{primitive.typography.fontWeight.regular}",
+          "type": "number",
+          "description": "Font weight for overlines."
+        }
+      }
     }
-  }
+  },
 }

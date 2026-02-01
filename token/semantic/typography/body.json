@@ -1,14 +1,18 @@
 {
-  "tokens": {
-    "fontSize": {
-      "value": "{primitive.typography.fontSize.body}",
-      "type": "dimension",
-      "description": "Font size for body text."
-    },
-    "fontWeight": {
-      "value": "{primitive.typography.fontWeight.regular}",
-      "type": "number",
-      "description": "Font weight for body text."
+  "semantic": {
+    "typography": {
+      "body": {
+        "fontSize": {
+          "value": "{primitive.typography.fontSize.body}",
+          "type": "dimension",
+          "description": "Font size for body text."
+        },
+        "fontWeight": {
+          "value": "{primitive.typography.fontWeight.regular}",
+          "type": "number",
+          "description": "Font weight for body text."
+        }
+      }
     }
   }
 }

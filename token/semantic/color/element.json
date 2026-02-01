@@ -1,15 +1,18 @@
 {
-  "$schema": "https://design-tokens.org/2025.10/schema",
-  "tokens": {
-    "primary": {
-      "value": "{primitive.color.primary}",
-      "type": "color",
-      "description": "Primary element color."
-    },
-    "secondary": {
-      "value": "{primitive.color.secondary}",
-      "type": "color",
-      "description": "Secondary element color."
+  "semantic": {
+    "color": {
+      "element": {
+        "primary": {
+          "value": "{primitive.color.primary}",
+          "type": "color",
+          "description": "Primary element color."
+        },
+        "secondary": {
+          "value": "{primitive.color.secondary}",
+          "type": "color",
+          "description": "Secondary element color."
+        }
+      }
     }
-  }
+  },
 }

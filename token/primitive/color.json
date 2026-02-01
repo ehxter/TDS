@@ -1,90 +1,91 @@
 {
-  "$schema": "https://design-tokens.org/2025.10/schema",
-  "tokens": {
-    "primary": {
-      "value": "#0070f3",
-      "type": "color",
-      "description": "Primary brand color."
-    },
-    "secondary": {
-      "value": "#1c1c1e",
-      "type": "color",
-      "description": "Secondary brand color."
-    },
-    "black": {
-      "value": "#000000",
-      "type": "color",
-      "description": "Black color."
-    },
-    "white": {
-      "value": "#FFFFFF",
-      "type": "color",
-      "description": "White color."
-    },
-    "gray": {
-      "value": "#808080",
-      "type": "color",
-      "description": "Gray color."
-    },
-    "red": {
-      "value": "#FF0000",
-      "type": "color",
-      "description": "Red color."
-    },
-    "green": {
-      "value": "#00FF00",
-      "type": "color",
-      "description": "Green color."
-    },
-    "blue": {
-      "value": "#0000FF",
-      "type": "color",
-      "description": "Blue color."
-    },
-    "yellow": {
-      "value": "#FFFF00",
-      "type": "color",
-      "description": "Yellow color."
-    },
-    "cyan": {
-      "value": "#00FFFF",
-      "type": "color",
-      "description": "Cyan color."
-    },
-    "magenta": {
-      "value": "#FF00FF",
-      "type": "color",
-      "description": "Magenta color."
-    },
-    "silver": {
-      "value": "#C0C0C0",
-      "type": "color",
-      "description": "Silver color."
-    },
-    "maroon": {
-      "value": "#800000",
-      "type": "color",
-      "description": "Maroon color."
-    },
-    "olive": {
-      "value": "#808000",
-      "type": "color",
-      "description": "Olive color."
-    },
-    "purple": {
-      "value": "#800080",
-      "type": "color",
-      "description": "Purple color."
-    },
-    "teal": {
-      "value": "#008080",
-      "type": "color",
-      "description": "Teal color."
-    },
-    "navy": {
-      "value": "#000080",
-      "type": "color",
-      "description": "Navy color."
+  "primitive": {
+    "color": {
+      "primary": {
+        "value": "#0070f3",
+        "type": "color",
+        "description": "Primary brand color."
+      },
+      "secondary": {
+        "value": "#1c1c1e",
+        "type": "color",
+        "description": "Secondary brand color."
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color",
+        "description": "Black color."
+      },
+      "white": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "White color."
+      },
+      "gray": {
+        "value": "#808080",
+        "type": "color",
+        "description": "Gray color."
+      },
+      "red": {
+        "value": "#FF0000",
+        "type": "color",
+        "description": "Red color."
+      },
+      "green": {
+        "value": "#00FF00",
+        "type": "color",
+        "description": "Green color."
+      },
+      "blue": {
+        "value": "#0000FF",
+        "type": "color",
+        "description": "Blue color."
+      },
+      "yellow": {
+        "value": "#FFFF00",
+        "type": "color",
+        "description": "Yellow color."
+      },
+      "cyan": {
+        "value": "#00FFFF",
+        "type": "color",
+        "description": "Cyan color."
+      },
+      "magenta": {
+        "value": "#FF00FF",
+        "type": "color",
+        "description": "Magenta color."
+      },
+      "silver": {
+        "value": "#C0C0C0",
+        "type": "color",
+        "description": "Silver color."
+      },
+      "maroon": {
+        "value": "#800000",
+        "type": "color",
+        "description": "Maroon color."
+      },
+      "olive": {
+        "value": "#808000",
+        "type": "color",
+        "description": "Olive color."
+      },
+      "purple": {
+        "value": "#800080",
+        "type": "color",
+        "description": "Purple color."
+      },
+      "teal": {
+        "value": "#008080",
+        "type": "color",
+        "description": "Teal color."
+      },
+      "navy": {
+        "value": "#000080",
+        "type": "color",
+        "description": "Navy color."
+      }
     }
-  }
+  },
 }

@@ -1,15 +1,16 @@
 {
-  "$schema": "https://design-tokens.org/2025.10/schema",
-  "tokens": {
-    "default": {
-      "value": "{primitive.border.thin}",
-      "type": "dimension",
-      "description": "Default border width."
-    },
-    "highlight": {
-      "value": "{primitive.border.thick}",
-      "type": "dimension",
-      "description": "Highlight border width."
+  "semantic": {
+    "border": {
+      "default": {
+        "value": "{primitive.border.thin}",
+        "type": "dimension",
+        "description": "Default border width."
+      },
+      "highlight": {
+        "value": "{primitive.border.thick}",
+        "type": "dimension",
+        "description": "Highlight border width."
+      }
     }
-  }
+  },
 }

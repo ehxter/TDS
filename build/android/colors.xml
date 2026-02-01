@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly, this file was auto-generated.
+-->
+<resources>
+  <color name="primitive_color_primary">#ff0070f3</color>
+  <color name="primitive_color_secondary">#ff1c1c1e</color>
+  <color name="primitive_color_black">#ff000000</color>
+  <color name="primitive_color_white">#ffffffff</color>
+  <color name="primitive_color_gray">#ff808080</color>
+  <color name="primitive_color_red">#ffff0000</color>
+  <color name="primitive_color_green">#ff00ff00</color>
+  <color name="primitive_color_blue">#ff0000ff</color>
+  <color name="primitive_color_yellow">#ffffff00</color>
+  <color name="primitive_color_cyan">#ff00ffff</color>
+  <color name="primitive_color_magenta">#ffff00ff</color>
+  <color name="primitive_color_silver">#ffc0c0c0</color>
+  <color name="primitive_color_maroon">#ff800000</color>
+  <color name="primitive_color_olive">#ff808000</color>
+  <color name="primitive_color_purple">#ff800080</color>
+  <color name="primitive_color_teal">#ff008080</color>
+  <color name="primitive_color_navy">#ff000080</color>
+  <color name="semantic_color_background_default">#ff0070f3</color>
+  <color name="semantic_color_background_overlay">#ff1c1c1e</color>
+  <color name="semantic_color_border_default">#ff0070f3</color>
+  <color name="semantic_color_border_highlight">#ff1c1c1e</color>
+  <color name="semantic_color_element_primary">#ff0070f3</color>
+  <color name="semantic_color_element_secondary">#ff1c1c1e</color>
+  <color name="semantic_color_overlay_light">#ff0070f3</color>
+  <color name="semantic_color_overlay_dark">#ff1c1c1e</color>
+</resources>
